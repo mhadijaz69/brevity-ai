@@ -1,0 +1,14 @@
+{ 
+    "manifest_version": 3, 
+    "name": "Brevity Al", 
+    "version": "1.0", 
+    "description": "Summarize web pages and rewrite content using Chrome Al APIs.",
+    "permissions": ["activeTab", "scripting"], 
+    "action": { 
+      "default_popup": "popup.html" 
+    } 
+}
+
+
+
+
